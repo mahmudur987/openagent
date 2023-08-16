@@ -1,7 +1,0 @@
-Paste your details in the following format:
-
-{{#user}}
-Name: Md Mahmudur Rahman
-Skills: HTML, CSS, JS, Next.js,React js,typescript,GraphQl,Node js,Express Js
-Email: mdmahmudurrahman987@gmail.com
-{{/user}}
